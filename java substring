@@ -1,7 +1,7 @@
 public class Substr2 {
     public static void main(String args[])
     {
-    
+    test
         String Str = new String("Welcome to geeksforgeeks");
  
         System.out.print("The extracted substring  is : ");
