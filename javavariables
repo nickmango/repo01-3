@@ -2,3 +2,4 @@
 2.static no need to create object 
 3.local
 4. instance
+global variable is access by every methods
