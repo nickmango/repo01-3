@@ -2,4 +2,5 @@ Syntax of inheritance
 class Subclass-name extends Superclass-name  
 {  
    //methods and fields  
-}  
+} 
+is-A relationship 
