@@ -1,1 +1,2 @@
 webdriver driver;
+driver.get("URL");
