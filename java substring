@@ -7,5 +7,6 @@ public class Substr2 {
         System.out.print("The extracted substring  is : ");
         System.out.println(Str.substring(10, 16));
 //test
+//test9
     }
 }
