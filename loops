@@ -2,3 +2,4 @@ for loop
 for(int i =0 ; i<10; i++){
 test}
 while loop
+do while loop
