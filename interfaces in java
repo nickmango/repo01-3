@@ -5,3 +5,5 @@ The interface in Java is a mechanism to achieve abstraction. There can be only a
 In other words, you can say that interfaces can have abstract methods and variables. It cannot have a method body.
 
 Java Interface also represents the IS-A relationship.
+
+//tesr
