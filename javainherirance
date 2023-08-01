@@ -5,3 +5,4 @@ class Subclass-name extends Superclass-name
 } 
 //is-A relationship 
 //test
+there are different types of inheritance
