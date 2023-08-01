@@ -3,3 +3,4 @@ cy.visit
 cy.wrap
 cy.wait
 765
+cy.next
