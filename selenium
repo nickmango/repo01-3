@@ -1,3 +1,4 @@
 webdriver driver;
 driver.get("URL");
 driver.navigate.to("")
+driver.manage().maximiza().window();
